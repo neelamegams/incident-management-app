@@ -1,0 +1,8 @@
+---
+applications:
+- name: incident-management-app
+  description: Deploying to CF with manifest instead of mta
+  version: 1.0.0
+  memory: 256MB
+  disk_quota: 256MB
+  buildpack: nodejs_buildpack
