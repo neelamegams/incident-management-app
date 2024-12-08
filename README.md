@@ -1,6 +1,7 @@
 ## How this repo was created
 
 Followed this group tutorials presented as BTP Developer Guide https://developers.sap.com/group.cap-application-full-stack.html
+
     - Instead of using BAS(Business Application Studio), used VS Code to add db, data and services
     - Did the steps till "Add SAP Fiori Elements UIs"
     - Skipped "Add Custom Logic", "Use a Local Launch page", "Add Authorization" and "Prepare for Production"
